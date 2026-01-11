@@ -10,6 +10,10 @@ def list_to_dist():
 list_to_dist()    
 
 
-   
+# out
+
+# (1, 'one')
+# (2, 'two')
+# (3, 'three')
 
 
