@@ -7,7 +7,25 @@ def checkpalindrome(number):
     else:
         print('number is not palindrome')    
     
-checkpalindrome(number)    
+checkpalindrome(number)  
+
+# other options
+
+value = 'aIbohPhoBiA'
+value = value.casefold()
+res = reversed(value)
+
+if list(value) == list(res):
+    print('palindrome')
+else:
+    print('not palindrome')    
+
+
+
+# x = ''.join( list(res))
+# print(x)
+
+
 
 
 # out
