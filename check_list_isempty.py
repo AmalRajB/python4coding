@@ -13,3 +13,8 @@ if length == 0:
     print('empty')
 else:
     print('not empty') 
+
+
+# out:
+# list is not empty
+# not empty
