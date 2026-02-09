@@ -11,6 +11,7 @@ for key in mydict:
     print(key,":",mydict[key])
     
 
+
     # out:
     # name : amal
     # age : 20
